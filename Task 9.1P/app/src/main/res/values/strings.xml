@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Restaurant Map App by Khanh Do</string>
+    <string name="add">Add new place</string>
+    <string name="show">Show all</string>
+    <string name="name">Place name</string>
+    <string name="address">Address</string>
+    <string name="get">Get current location</string>
+    <string name="show_this">Show on map</string>
+    <string name="done">Done</string>
+    <string name="save">Save</string>
+</resources>
